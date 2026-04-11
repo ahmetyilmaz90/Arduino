@@ -28,3 +28,6 @@ void loop() {
   redLight();
   holdOn();
 }
+
+
+//Needs = Arduino Card, 1 USB Cable, 4 Male-To-Male Jumper Cables, 1 Red LED, 1 Yellow LED, 1 Green LED, 3 Resistors, Breadbord
